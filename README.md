@@ -50,7 +50,7 @@ You are going to implement a version of the game of Pig in Python. Here's how th
 #### Example Game
 You do not have to have the same interface or text as this. It is only an example.
 
-`You will be player 2.
+```You will be player 2.
 Enter nothing to roll; enter anything to hold.
 Player 1 score: 0
 Player 2 score: 0
@@ -175,6 +175,6 @@ Turn total: 19 	Roll/Hold? (Enter)
 Roll: 5
 Turn total: 24 	Roll/Hold? h
 Turn total: 24
-New score: 104`
+New score: 104```
 
 
